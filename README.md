@@ -1,2 +1,2 @@
-# custom_dashboard_widgets
+# DnDBoard2
 Created with CodeSandbox
